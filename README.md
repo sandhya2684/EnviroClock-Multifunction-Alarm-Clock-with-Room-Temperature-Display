@@ -1,0 +1,2 @@
+# EnviroClock-Multifunction-Alarm-Clock-with-Room-Temperature-Display
+Developed a real-time multifunction alarm clock using LPC2148 with RTC-based timekeeping, alarm management, and room temperature monitoring. Integrated LM35 sensor, LCD display, keypad interface, and buzzer alerts. Implemented interrupt-driven menu navigation for setting time, date, and alarm parameters with user input validation.
